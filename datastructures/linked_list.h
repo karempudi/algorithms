@@ -1,3 +1,6 @@
+#ifndef "LINKEDLIST_H"
+#define "LINKEDLIST_H"
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -241,6 +244,7 @@ template <typename T> class LinkedList {
 };
 
 
+/*
 int main() {
 
     cout << "Linked list ... " << endl;
@@ -291,3 +295,6 @@ int main() {
     return 0;
 
 }
+*/
+
+#endif 
